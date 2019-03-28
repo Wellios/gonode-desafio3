@@ -6,7 +6,7 @@ Nesse terceiro desafio proposto no bootcamp pela Rocketseat, foi melhorada a apl
 - Node.js
 - Docker
 
-** Banco de Dados**
+**Banco de Dados**
 
 - MongoDB
 - Redis
@@ -28,7 +28,7 @@ listagens e não deve ser mais possível realizar uma intenção de compra para 
 Purchase que o vendedor aceitou, caso esse campo esteja presente, quer dizer que o
 anúncio foi vendido;
 
-** Além das melhorias propostas pelo desafio, eu acrescentei o envio de e-mail para o
+**Além das melhorias propostas pelo desafio, eu acrescentei o envio de e-mail para o
 comprador quando o vendedor confirma a inteção da compra, usando o redis para configurar
 fila.**
 
